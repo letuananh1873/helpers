@@ -14,7 +14,7 @@ This is a helpers package that provides some built in helpers, and also provides
 Via Composer
 
 ``` bash
-$ composer require browner12/helpers
+$ composer require letuananh1873/helpers
 ```
 
 ## Setup
